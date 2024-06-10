@@ -1,4 +1,4 @@
-# librarymanagementsystem
+# LibraryManagementSystem
 
 **Overview**
 The Library Management System is a software application designed to automate the management of a library's resources, including books, users, and transactions. It provides functionalities for librarians to efficiently manage the library's inventory and for users to search for and borrow books.
