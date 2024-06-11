@@ -11,6 +11,7 @@ The library management system should fulfill the following requirements:
 * Borrowing and returning books
 * Searching for books
 * Generating reports
+  
 **3. Entity Relationship Diagram (ERD)**
 The Entity Relationship Diagram illustrates the relationships between various entities in the library management system. Entities include:
 
@@ -20,7 +21,7 @@ The Entity Relationship Diagram illustrates the relationships between various en
 * Reviews
 * checkouts
 * Categories/Genres
-* 
+
 **4. Database Schema**
 The database schema defines the structure of the database without providing the actual code. It includes tables, columns, primary keys, foreign keys, and constraints.
 
@@ -31,5 +32,6 @@ Sample SQL queries demonstrate the functionality of the library management syste
 * Borrowing and returning books
 * Searching for books by title, author, or category
 * Generating reports on borrowed books, popular authors, etc.
+* 
 **6. Conclusion**
 In conclusion, implementing a robust library management system is essential for optimizing library operations and enhancing user experience. By adhering to the outlined requirements and utilizing effective SQL queries, the system can efficiently manage library resources and provide valuable insights through data analysis.
