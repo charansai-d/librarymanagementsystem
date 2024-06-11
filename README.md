@@ -20,6 +20,7 @@ The Entity Relationship Diagram illustrates the relationships between various en
 * Reviews
 * checkouts
 * Categories/Genres
+* 
 **4. Database Schema**
 The database schema defines the structure of the database without providing the actual code. It includes tables, columns, primary keys, foreign keys, and constraints.
 
